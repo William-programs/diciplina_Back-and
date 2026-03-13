@@ -1,0 +1,24 @@
+{
+  "name": "diciplina_back-and",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-programs/diciplina_Back-and.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/William-programs/diciplina_Back-and/issues"
+  },
+  "homepage": "https://github.com/William-programs/diciplina_Back-and#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
