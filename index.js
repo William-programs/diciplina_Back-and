@@ -6,5 +6,5 @@ server.get("/hello", (req, res) => {
 });
 
 server.list(3000, () => {
-    console.log("vai tomar nesse seu cuzinho");
-});
+    console.log("server?");
+});""
